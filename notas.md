@@ -85,15 +85,11 @@ Exemplos:
 
 - Modelagem: separar fatos de realizado e plano, com dimensões como data, fila, canal, operação, segmento e operador
 
-- Dashboard: responder perguntas como
-
-- estamos dentro da meta?
-
-- onde está o desvio?
-
-- o problema é volume, capacidade ou produtividade?
-
-- o que precisa de ação agora?
+- Dashboard: responder perguntas como:
+    - estamos dentro da meta?
+    - onde está o desvio?
+    - o problema é volume, capacidade ou produtividade?
+    - o que precisa de ação agora?
 
 #### Um ponto específico sobre BI em planejamento
 
